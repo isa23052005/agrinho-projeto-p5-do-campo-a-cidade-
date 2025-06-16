@@ -1,0 +1,4 @@
+Meu projeto tem como mostrar as urbanizações que estão acontecendo por causa das queimadas, aparecendo árvores queimando e a casa que estava pegando fogo desaparecer com o tempo assim degradando. chata gpt ajudou a colocar os codigos de fogo pegeui alguma ideiaspara as chamas 
+O objetivo do projeto é mostrar a realidade que vem acontecendo com mais frequência no passar dos anos as queimadas das plantações as queimas dos lugares que são habitados fazem com que moradores se mudem para a cidade, muitos povos estão se mudando do campo por motivos pelas queimas das floresta.
+Em algumas regiões as queimadas têm causado problemas de saúde, afetando a qualidade do ar e obrigando as pessoas a mudarem de rotina em outros casos, as queimadas têm causado destruição de casas e propriedades, levando as pessoas a se mudarem temporariamente ou permanentemente
+O intuito é compreender as mdanças que podem ocorrer com forme as queuimadas vão se alastrando.
